@@ -23,7 +23,7 @@ A linked list is a linear data structure similar to an array. However, unlike ar
 
 Each element (commonly called nodes) contains two items: the data stored and a link to the next node. The data can be any valid data type. You can see this illustrated in the diagram below.
 
-![](./Group_14_5_bvpwu0.png)
+![](./linkedlistpic.png)
 
 The entry point to a linked list is called the head. The head is a reference to the first node in the linked list. The last node on the list points to null. If a list is empty, the head is a null reference.
 
